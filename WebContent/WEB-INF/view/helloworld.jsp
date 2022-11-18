@@ -8,6 +8,7 @@
 </head>
 <body>
 <br><br>
-Student Name : ${param.studentName} 
+Movie Name : ${movieModel} 
+<img src="${pageContext.request.contextPath}/resources/images/download.jfif" />
 </body>
 </html>

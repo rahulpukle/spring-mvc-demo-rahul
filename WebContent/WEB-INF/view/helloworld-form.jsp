@@ -7,9 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="processForm" methoD="GET">
-		<input type="text" name="studentName"
-		placeholder="whats your name">
+	<form action="processFormV2" method="GET">
+		<input type="text" name="movieName"
+		placeholder="whats your favourite Movie">
 		<input type="submit"/>
 	</form>
 </body>
